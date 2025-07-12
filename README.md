@@ -4,6 +4,10 @@
 
 DiagramGPT is an intelligent web application that converts natural language descriptions into professional Mermaid diagrams. Simply describe what you want to visualize, and our AI will generate the corresponding Mermaid code and render it as a beautiful, interactive diagram.
 
+![mermaid UI](mermaid_gpt_initial.png)
+
+![mermaid output](mermaid_gpt_output.png)
+
 ## ✨ Features
 
 - **AI-Powered Generation**: Uses Google's Gemini model through LangChain to understand your requirements and generate accurate Mermaid code
